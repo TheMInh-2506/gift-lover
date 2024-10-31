@@ -87,7 +87,7 @@ var SHOW_TIMER = false;
 /**
  * 是否循环播放幻灯片。
  */
-var LOOP_SLIDES = false;
+var LOOP_SLIDES = true;
 
 /**
  * 是否循环播放背景音乐。建议设为true。
@@ -109,7 +109,7 @@ var LOADING_DELAY = 1000;
 /**
  * 所有图片的总数目。如果要添加删除图片，请修改此数目。
  */
-var IMAGE_COUNT = 24;
+var IMAGE_COUNT = 23;
 
 /**
  * 幻灯片播放的图片所在的目录，默认为 "./images"。
